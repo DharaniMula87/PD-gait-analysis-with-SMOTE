@@ -29,7 +29,7 @@ Parkinson’s Disease stage classification using gait analysis with SMOTE-based 
    - Applied Savitzky-Golay filter to smooth noisy signals
 
 3. *Feature Engineering*  
-   - Extracted gait features: cadence, stride length, regularity, symmetry, step count  
+   - Extracted gait features: cadence, stride length, regularity, symmetry, step count etc..
    - Combined gait features with demographic data
 
 4. *Class Balancing*  
