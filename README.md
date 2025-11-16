@@ -1,13 +1,9 @@
 # PD-gait-analysis-with-SMOTE
 Parkinson’s Disease stage classification using gait analysis with SMOTE-based class balancing. Machine learning models are trained and tested on gait features extracted from VGRF signals. Results show that SMOTE improves accuracy and prediction performance compared to the original imbalanced dataset.
 
-# PD-gait-analysis-with-SMOTE
-Parkinson’s Disease stage classification using gait analysis with SMOTE-based class balancing. Machine learning models are trained and tested on gait features extracted from VGRF signals. Results show that SMOTE improves accuracy and prediction performance compared to the original imbalanced dataset.
-
-
 ## Research Paper Reference
 
-*Title: *Parkinson’s Disease Stage Classification with Gait Analysis using Machine Learning Techniques and SMOTE-based Approach for Class Imbalance Problem  
+*Title*:Parkinson’s Disease Stage Classification with Gait Analysis using Machine Learning Techniques and SMOTE-based Approach for Class Imbalance Problem  
 *Authors*: Aishwarya Balakrishnan, Jeevan Medikonda, Pramod K Namboothiri, Manikandan Natarajan  
 *Conference*: 2022 International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)  
 *DOI*: [10.1109/DISCOVER55800.2022.9974754](https://doi.org/10.1109/DISCOVER55800.2022.9974754)
