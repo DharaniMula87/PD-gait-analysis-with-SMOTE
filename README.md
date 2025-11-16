@@ -29,11 +29,22 @@ Parkinson’s Disease stage classification using gait analysis with SMOTE-based 
    - Applied Savitzky-Golay filter to smooth noisy signals
 
 3. *Feature Engineering*  
-   - Extracted gait features: cadence, stride length, regularity, symmetry, step count etc..
+   -Extracted gait features:
+     - Cadence
+     - Stride length
+     - Regularity
+     - Symmetry
+     - Step count
+     - Statistical features
    - Combined gait features with demographic data
 
-4. *Class Balancing*  
-   - Applied SMOTE to balance Healthy, Stage 2, and Stage 2.5 samples
+4. *Class Balancing*
+
+* Applied *SMOTE* to balance the three classes:
+
+  * Healthy 0
+  * Stage 2
+  * Stage 2.5
 
 5. *Model Training*
    - Trained multiple classifiers using 5-fold cross-validation  
@@ -47,6 +58,15 @@ Parkinson’s Disease stage classification using gait analysis with SMOTE-based 
 
 ---
 
+## Visualizations (Included in Repository)
+
+* Before SMOTE vs After SMOTE class distribution
+* Correlation heatmap
+* Feature distribution plots
+* Confusion matrix
+* Accuracy comparison
+
+
 ##  License
 
 This project is licensed under the MIT License.
@@ -56,5 +76,3 @@ This project is licensed under the MIT License.
 ## Contact Me
 
 If you have any related queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
-
----
