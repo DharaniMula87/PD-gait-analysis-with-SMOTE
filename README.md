@@ -75,4 +75,4 @@ This project is licensed under the MIT License.
 
 ## Contact Me
 
-If you have any related queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
+If you have any related queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dharani-mula-648a0b375/).
