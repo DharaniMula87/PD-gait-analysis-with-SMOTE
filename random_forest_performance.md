@@ -1,4 +1,4 @@
-### 📊 Random Forest Performance Summary
+## Random Forest Performance Summary
 
 Random Forest achieved:
 - Accuracy: 90.0% (No SMOTE) → 95.0% (With SMOTE)
