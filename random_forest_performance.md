@@ -14,6 +14,14 @@ This demonstrates the impact of SMOTE on improving classification performance.
 
 ---
 
+## Confusion Matrix – Without SMOTE
+
+![Confusion Matrix Without SMOTE](confusion_matrix_no_smote.png)
+
+> The confusion matrix reveals misclassifications due to class imbalance.
+
+---
+
 ## Confusion Matrix – With SMOTE
 
 ![Confusion Matrix With SMOTE](confusion_matrix_smote.png)
